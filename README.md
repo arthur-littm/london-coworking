@@ -29,7 +29,6 @@ The coworking space is situated to the right when you come into the office, next
 ## Working hours
 
 The coworking is open from monday to friday from 9am to 6:30pm. It's common for the office to stay open until later (events, talks, etc.) which allows you to stay longer, but we can not guarantee that.
- for that.
 
 It may also happen that Le Wagon requisitions the office space for office improvements, other courses, etc. If it's the case you will be informed of it on Slack on the `london-cowork` channel.
 
