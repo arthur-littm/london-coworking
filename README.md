@@ -14,6 +14,8 @@ The wifi network is `Le Wagon` and the password is `allyouneediscode`.
 
 Is this your first day at the London coworking space ? [Register on Cobot](https://lewagon-london.cobot.me/). At the end of the registration you will be asked for you bank account details for automated payment. This is mandatory and makes it easier for everyone. The billing will be done at the end of the month and payment from your account will be taken at the beginning of the following month. The daily price for the coworking is £10 (VAT included), your first day is on us!
 
+You can leave the `Buy Time Passes` section as it is with 0 passes and start date as today, the passes will automatically be added the days you come into the office.
+
 Once you've registered and the automatic payment is setup, please send a message to Arthur Littmann (`@arthur-littm` on Slack or arthur@lewagon.com) and send him you MAC wifi address. Here's how you find out what your address is for [macOS](http://osxdaily.com/2012/02/28/find-mac-address-mac-os-x/), [Windows](https://www.lifewire.com/finding-ip-mac-addresses-microsoft-windows-816525) or [Linux](http://www.coffer.com/mac_info/locate-unix.html). Be careful and send the MAC of the wifi card, not the Ethernet card.
 
 If you are a TA in London, please also send your Github username to Arthur.
