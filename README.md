@@ -28,7 +28,7 @@ The coworking space is situated to the right when you come into the office, next
 
 ## Working hours
 
-The coworking is open from monday to friday from 9am to 6:30pm. It's common for the office to stay open until later (events, talks, etc.) which allows you to stay longer, but there are no garantees for that.
+The coworking is open from monday to friday from 9am to 6:30pm. It's common for the office to stay open until later (events, talks, etc.) which allows you to stay longer, but we can not guarantee that.
 
 It may also happen that Le Wagon requisitions the office space for office improvements, other courses, etc. If it's the case you will be informed of it on Slack on the `london-cowork` channel.
 
@@ -43,12 +43,12 @@ During these times please limit your movements in the office and the discussion 
 
 Here are the rules of conduct for the Le Wagon office community, please respect them!
 
-As mentioned in the `Working hourse` section, please be quiet inside the office between 9:00am and 10:30am and between 17:30pm and 7pm.
+As mentioned in the `Working hours` section, please be quiet inside the office between 9:00am and 10:30am and between 17:30pm and 7pm.
 You are of course allowed to get coffee and use the facilities, but please avoid loud discussions in the office space during lectures and livecodes.
 
 Please put your dishes in the dishwasher, not the sink.
 
-Please clean up your table after lunch and to bring your glasse/mug in the kitchen at the end of the day, again in the dishwasher, not the sink.
+Please clean up your table after lunch and bring your glasses/mugs to the kitchen at the end of the day, again in the dishwasher, not the sink.
 
 Please keep the noise to a minimum in the coworking to avoid disturbing the other coworkers in the room. For your meetings and phone calls use the lunch room.
 
