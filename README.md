@@ -46,6 +46,8 @@ Here are the rules of conduct for the Le Wagon office community, please respect 
 As mentioned in the `Working hours` section, please be quiet inside the office between 9:00am and 10:30am and between 17:30pm and 7pm.
 You are of course allowed to get coffee and use the facilities, but please avoid loud discussions in the office space during lectures and livecodes.
 
+The coworking is a `hot desk` only space. That means that every night when you leave your desk should be cleared of all your belongings. There are lockers near the kitchen if you need to leave something in the office overnight.
+
 Please put your dishes in the dishwasher, not the sink.
 
 Please clean up your table after lunch and bring your glasses/mugs to the kitchen at the end of the day, again in the dishwasher, not the sink.
