@@ -1,10 +1,10 @@
 # Le Wagon - London Coworking
 
-- [My First day](link)
-- [Where can I work?](link)
-- [Working hours](link)
-- [Coworking rules](link)
-- [Perks](link)
+- [My First day](#my-first-day)
+- [Where can I work?](#where-can-i-work)
+- [Working hours](#working-hours)
+- [Coworking rules](#coworking-rules)
+- [Perks](#perks)
 
 ## My first day
 
@@ -39,7 +39,7 @@ Important : there are two times where you will have to keep the noise down in th
 
 During these times please limit your movements in the office and the discussion you may have, the students and teacher will be thankful.
 
-## The Coworking Rules
+## Coworking Rules
 
 Here are the rules of conduct for the Le Wagon office community, please respect them!
 
