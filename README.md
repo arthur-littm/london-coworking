@@ -10,7 +10,7 @@
 
 The Le Wagon coworking is situated at our offices in `138 Kingsland Road, Unit 13, E2 8DY, London`.
 
-The wifi network if `Le Wagon` and the password is `allyouneediscode`.
+The wifi network is `Le Wagon` and the password is `allyouneediscode`.
 
 Is this your first day at the London coworking space ? [Register on Cobot](https://lewagon-london.cobot.me/). At the end of the registration you will be asked for you bank account details for automated payment. This is mandatory and makes it easier for everyone. The billing will be done at the end of the month and payment from your account will be taken at the beginning of the following month. The daily price for the coworking is £10 (VAT included), your first day is on us!
 
@@ -54,4 +54,4 @@ Please keep the noise to a minimum in the coworking to avoid disturbing the othe
 
 ## Perks
 
-You can attend all of the Le Wagon evening talks, join Yoga (tuesdays and thursdays at 4pm) and other Le Wagon events.
+You can attend all of the Le Wagon evening talks, join Yoga (Tuesdays and Thursdays at 4pm) and other Le Wagon events.
