@@ -20,7 +20,7 @@ Once you've registered and the automatic payment is setup, please send a message
 
 If you are a TA in London, please also send your Github username to Arthur.
 
-You now have access to a fiber internet connexion and unlimited coffee!
+You now have access to a fiber internet connection and unlimited coffee!
 
 You can now join the channel `#london-cowork` on the Le Wagon alumni slack, feel free to introduce yourself to other coworkers on that channel.
 
@@ -37,7 +37,7 @@ It may also happen that Le Wagon requisitions the office space for office improv
 Important : there are two times where you will have to keep the noise down in the common office space  (kitchen, hallways, main room):
 
 9:00am until 10:30am, because of the morning lecture.
-5:30pm until 19:00pm, because of the livecode.
+5:30pm until 7:00pm, because of the livecode.
 
 During these times please limit your movements in the office and the discussion you may have, the students and teacher will be thankful.
 
