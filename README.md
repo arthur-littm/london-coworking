@@ -8,7 +8,7 @@
 
 ## My first day
 
-The Le Wagon coworking is situated at our offices in `138 Kingsland Road, Unit 13, E2 8DY, London`.
+The Le Wagon coworking is situated at our offices in `138 Kingsland Road, Unit 14, E2 8DY, London` (Second floor!).
 
 The wifi network is `Le Wagon` and the password is `allyouneediscode`.
 
